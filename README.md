@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This is Md Ahsanul Islam.
+## Hi there 👋 This is Md Ahsanul Islam.
 
 - 🔭 I’m currently working on shiny apps development
 - 🌱 I’m currently learning shiny and flexdashboard in R
@@ -11,8 +9,18 @@ This is Md Ahsanul Islam.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like to do online courses more than conventional institutional courses for the flexible timing.
 
+
 <!--- https://github.com/AhsanHimel/github-readme-stats#github-stats-card -->
-<img src="https://github-readme-stats.vercel.app/api?username=AhsanHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&bg_color=00000B&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=AhsanHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&hide_border=true&theme=dark">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanHimel&hide=JavaScript&layout=compact&bg_color=00000B&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=dark">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanHimel&hide=JavaScript&layout=compact&bg_color=00000B&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc">
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhsanHimel&bg_color=ffffff)  
+
+![My GitHub metrics](https://metrics.lecoq.io/AhsanHimel)  
+
+![My GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AhsanHimel)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-ahsanul//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahsanul.islam.56)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahsanul_himel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ahsan-himel) 
+
+![My Profile views](https://gpvc.arturio.dev/AhsanHimel)  
