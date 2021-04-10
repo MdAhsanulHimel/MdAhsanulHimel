@@ -11,4 +11,8 @@ This is Md Ahsanul Islam.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like to do online courses more than conventional institutional courses for the flexible timing.
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhsanHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!--- https://github.com/AhsanHimel/github-readme-stats#github-stats-card -->
+<img src="https://github-readme-stats.vercel.app/api?username=AhsanHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&bg_color=00000B&hide_border=true">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanHimel&hide=JavaScript&layout=compact&bg_color=00000B&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc">
