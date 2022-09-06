@@ -1,9 +1,8 @@
 ## Hi there 👋 This is Md Ahsanul Islam.
 
 - 🔭 I’m currently working on shiny apps development
-- 🌱 I’m currently learning shiny and flexdashboard in R
 - 👯 I’m looking to collaborate on R projects
-- 🤔 I’m looking for help with Data Mining with R
+- 😍 Super fan of R!
 - 💬 Ask me about Statistics and R
 - 📫 How to reach me: [Facebook](https://www.facebook.com/ahsanul.islam.56/), [Linkedin](https://www.linkedin.com/in/md-ahsanul/).
 - 😄 Pronouns: He
