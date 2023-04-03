@@ -16,7 +16,7 @@
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdAhsanulHimel&theme=github&hide_border=true)   -->
-[![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdAhsanulHimel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdAhsanulHimel&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://metrics.lecoq.io/ -->
 <!-- ![Metrics](https://metrics.lecoq.io/MdAhsanulHimel?template=classic&isocalendar=1&stars=1&people=1&achievements=1&isocalendar.duration=half-year&stars.limit=4&people.limit=15&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FDhaka) 
 
