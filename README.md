@@ -12,7 +12,7 @@
 <!--- https://github.com/MdAhsanulHimel/github-readme-stats#github-stats-card -->
 <img src="https://github-readme-stats.vercel.app/api?username=MdAhsanulHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&hide_border=true&theme=nord"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhsanulHimel&hide=JavaScript&layout=compact&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhsanulHimel&hide=JavaScript,HTML,CSS&layout=compact&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=nord&&exclude_repo=mdahsanulhimel.github.io">
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdAhsanulHimel&theme=github&hide_border=true)   -->
