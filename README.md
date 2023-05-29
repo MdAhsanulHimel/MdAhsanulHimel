@@ -12,11 +12,11 @@
 <!--- https://github.com/MdAhsanulHimel/github-readme-stats#github-stats-card -->
 <img src="https://github-readme-stats.vercel.app/api?username=MdAhsanulHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&hide_border=true&theme=nord"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhsanulHimel&hide=JavaScript,HTML,CSS&layout=compact&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=nord&&exclude_repo=mdahsanulhimel.github.io">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhsanulHimel&hide=JavaScript,HTML,CSS,Jupyter%20Notebook&layout=compact&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=nord&&exclude_repo=mdahsanulhimel.github.io">
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdAhsanulHimel&theme=github&hide_border=true)   -->
-[![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdAhsanulHimel&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdAhsanulHimel&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://metrics.lecoq.io/ -->
 <!-- ![Metrics](https://metrics.lecoq.io/MdAhsanulHimel?template=classic&isocalendar=1&stars=1&people=1&achievements=1&isocalendar.duration=half-year&stars.limit=4&people.limit=15&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FDhaka) 
 
