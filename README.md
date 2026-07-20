@@ -1,18 +1,35 @@
-## Hi there 👋 This is Md Ahsanul Islam.
+<h1 align="center">Hi there 👋 I'm Md Ahsanul Islam</h1>
+<h3 align="center">Statistician · R Developer · Shiny Enthusiast</h3>
 
-- 🔭 I’m currently working on shiny apps development
-- 👯 I’m looking to collaborate on R projects
-- 😍 Super fan of R!
-- 💬 Ask me about Statistics and R
-- 📫 How to reach me: [Facebook](https://www.facebook.com/ahsanul.islam.56/), [Linkedin](https://www.linkedin.com/in/md-ahsanul/).
-- 😄 Pronouns: He
-- ⚡ Fun fact: I like to do online courses more than conventional institutional courses for the flexible timing.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdAhsanulHimel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+- 🔭 I'm currently working on **Shiny app development**
+- 👯 I'm looking to collaborate on **R projects**
+- 😍 Super fan of **R**
+- 💬 Ask me about **Statistics and R**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: I prefer online courses over conventional institutional ones for the flexible timing
+
+[![Ahsanul's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MdAhsanulHimel)](https://github.com/MdAhsanulHimel/github-readme-stats-fast)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdahsanulhimel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/ahsanul.islam.56/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/mdahsanulhimel target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://stackoverflow.com/users/13323413/md-ahsanul-himel" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
 
 
-<!--- https://github.com/MdAhsanulHimel/github-readme-stats#github-stats-card -->
-<img src="https://github-readme-stats.vercel.app/api?username=MdAhsanulHimel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&hide_border=true&theme=nord"> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhsanulHimel&hide=JavaScript,HTML,CSS,Jupyter%20Notebook&layout=compact&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=nord&&exclude_repo=mdahsanulhimel.github.io">
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdAhsanulHimel&theme=github&hide_border=true)   -->
