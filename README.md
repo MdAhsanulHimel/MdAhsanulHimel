@@ -48,7 +48,7 @@ Begum, A., Uddin, M.A., Ahsan, S.M., &amp; Islam, M.A. *Health Science Reports*,
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=MdAhsanulHimel&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MdAhsanulHimel&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MdAhsanulHimel&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css,javascript" alt="Top languages" />
 </p>
 
 <p align="center">
